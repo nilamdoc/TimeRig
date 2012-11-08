@@ -45,7 +45,7 @@
 <body data-spy="scroll" data-target=".bs-docs-sidebar">
 	<div id="container" class="container">
 		<div id="header">
-			<?	echo $this->_render('element', 'header');?>
+			<?php	echo $this->_render('element', 'header');?>
 		</div>
 		<div id="content" class="container" >
 			<textarea name="Content" class="ckeditor" id="Content"></textarea>			
