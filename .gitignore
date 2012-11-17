@@ -1,2 +1,3 @@
 app/libraries/*
+app/config/bootstrap/libraries.php
 app/resources/tmp/*
