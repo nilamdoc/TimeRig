@@ -1,3 +1,4 @@
+<h4>Create a new user</h4>
 <?=$this->form->create($user); ?>
 <?=$this->form->field('name', array('label'=>'Name')); ?>
 <?=$this->form->field('username', array('label'=>'Username')); ?>
