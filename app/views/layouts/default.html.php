@@ -47,8 +47,7 @@
 		<div id="header">
 			<?php	echo $this->_render('element', 'header');?>
 		</div>
-		<div id="content" class="container" >
-			<textarea name="Content" class="ckeditor" id="Content"></textarea>			
+		<div id="content" class="container" >            <br><br><hr>
 			<?php echo $this->content(); ?>
 		</div>
 	</div>
